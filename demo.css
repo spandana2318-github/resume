@@ -1,0 +1,48 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid blue;
+    background-color: darkseagreen;
+}
+img{
+    border-radius: 10px;
+    display:flex;
+    float: right;
+    justify-content: right;
+    position: static;
+}
+.menu ul li{
+ 
+    margin: 5px;
+    text-align: left;
+    border: 1px solid black;
+    display: inline;
+    background-color: bisque;
+    height: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    
+
+}
+.figure img{
+    float: inline-end;
+    width: 50%;
+    height: 50%;
+}
+
+.tr{
+    display: flex;
+}
+.details{
+    border: 1px solid blue;
+    background-color: darkseagreen;
+}
+h2{
+    border: 1px solid blue;
+    background-color: darkseagreen;
+}  
+
+    
